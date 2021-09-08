@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Weather App</string>
+
+
+    <string name="please_wait">Please Wait…</string>
+
+
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="action_refresh">REFRESH</string>
+
 </resources>
